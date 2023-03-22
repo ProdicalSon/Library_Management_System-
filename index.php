@@ -8,4 +8,4 @@
 	header('Location: '.$ur.'/Library/Fullwebsite');
 	exit;
 ?>
-<!-- Something is wrong with the XAMPP installation :-( -->
+
